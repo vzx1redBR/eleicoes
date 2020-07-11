@@ -1,0 +1,8 @@
+     *printf("ola"\n);  >> system.out.println("ola");
+     *printf("ola %d\n",var); >> system.out.println("ola" + var);
+      
+     *  int b;
+     *  scanf("%d",b)
+     *     transforma-se :
+     *  scanner kb = new scanner(system.in);
+     java tem coisas semelhantes com c++ . 
